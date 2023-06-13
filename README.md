@@ -1,4 +1,4 @@
-If you want to look at the app, use this link: https://chat-app-one-virid.vercel.app/login
+If you want to check the app, use this link: https://chat-app-one-virid.vercel.app/login
 
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
