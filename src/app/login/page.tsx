@@ -10,7 +10,7 @@ const Page: FC = ({}) => {
   async function loginWithGoogle () {
     setIsLoading(true)
     try {
-      await signIn('google')   
+      await signIn('google', {callbackUrl: '/dashboard'})   
     } catch (error) {
       toast.error('Что-то пошло нет так...')
     } finally {
